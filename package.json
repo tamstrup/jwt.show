@@ -1,0 +1,11 @@
+{
+	"type": "module",
+	"dependencies": {
+		"jsonwebtoken": "^9.0.0",
+		"sin": "github:porsager/sin"
+	},
+	"scripts": {
+		"dev": "sin dev",
+		"build": "sin build"
+	}
+}
